@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1580715209 source:d:\sharif\newserver\main.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<dirent.h>
+	<time.h>
+	<process.h>
+	<winsock2.h>
+	"mycJSON.h"
+
+1580714706 source:d:\sharif\newserver\mycjson.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1580712756 d:\sharif\newserver\mycjson.h
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1580712418 source:d:\sharif\mycjson\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
